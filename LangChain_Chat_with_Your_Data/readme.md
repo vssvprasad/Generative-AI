@@ -61,6 +61,7 @@ To get started with the course materials, clone this repository to your local ma
 ```bash
 git clone https://github.com/your-username/LangChain-Chat-with-Your-Data.git
 cd LangChain-Chat-with-Your-Data
+```
 
 Launch jupyter notebook
 ```bash
