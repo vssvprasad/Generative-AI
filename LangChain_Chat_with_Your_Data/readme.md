@@ -49,6 +49,11 @@ Before you begin, ensure you have met the following requirements:
   ```bash
   pip install notebook
 
+- **Lang chain**: install langchain using pip:
+  ```bash
+  pip install langchain
+  
+
 ## Getting Started
 
 To get started with the course materials, clone this repository to your local machine:
