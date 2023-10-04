@@ -63,7 +63,7 @@ git clone https://github.com/your-username/LangChain-Chat-with-Your-Data.git
 cd LangChain-Chat-with-Your-Data
 ```
 
-Launch jupyter notebook
+- Launch jupyter notebook
 ```bash
 jupyter notebook
 
