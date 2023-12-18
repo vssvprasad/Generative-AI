@@ -1,5 +1,5 @@
 # Generative-AI
-# 🚀 Enhance Your AI Expertise with DeepLearning.AI Short Courses
+# 🚀 Enhancing My AI Expertise with DeepLearning.AI Short Courses
 
 As a committed professional in the field of generative AI, I continually strive to expand my skillset and knowledge. I'm excited to share that I've been enhancing my expertise through specialized **short courses offered by DeepLearning.AI**. These courses are specifically designed to deepen understanding in key areas of AI and are a testament to my dedication to staying at the forefront of technological advancements.
 
